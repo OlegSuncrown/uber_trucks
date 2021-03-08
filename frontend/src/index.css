@@ -1,0 +1,59 @@
+.bg-sec-custom {
+  background-color: #707d83 !important;
+}
+
+.bg-sec-custom1 {
+  background-color: #e9e9e9 !important;
+}
+
+.bg-sec-custom2 {
+  background-color: #e4e3e3 !important;
+}
+
+.bg-light-green {
+  background-color: rgb(177, 219, 177) !important;
+}
+
+.bg-light-orange {
+  background-color: rgb(228, 192, 175);
+}
+
+.nav-link {
+  font-size: 15px;
+  font-weight: 300;
+  cursor: pointer;
+}
+
+.navbar-brand {
+  font-size: 25px !important;
+}
+
+.icon {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+a.active.focus,
+a.active:focus,
+a.focus,
+a:active.focus,
+a:active:focus,
+a:focus,
+button.active.focus,
+button.active:focus,
+button.focus,
+button:active.focus,
+button:active:focus,
+button:focus,
+.btn.active.focus,
+.btn.active:focus,
+.btn.focus,
+.btn:active.focus,
+.btn:active:focus,
+.btn:focus {
+    outline: 0;
+    outline-color: transparent;
+    outline-width: 0;
+    outline-style: none;
+    box-shadow: 0 0 0 0 rgba(0,123,255,0);
+}
